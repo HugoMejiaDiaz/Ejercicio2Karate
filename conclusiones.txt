@@ -1,0 +1,4 @@
+-No existe verificacion de los campos tanto en longitud de caracteres como en los que se utilizan.
+-Los usarios y contraseñas quedan validados tanto para la creación de nuevos ususarios como para el ingreso.
+-Se valida la correspondencia de usuarios y contraseñas.
+-Se debe realizar un algortimo extra para verificar las ventanas emergentes de autocompletación.
